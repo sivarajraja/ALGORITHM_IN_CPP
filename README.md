@@ -1,1 +1,4 @@
 # algorithm
+
+LANGUAGE USED : C++
+SOURCE : GEEKS FOR GEEKS
